@@ -20,3 +20,6 @@ L'applicazione presenta due sezioni principali:
 
 ## Flutter
 E' disponibile anche una versione con meno funzionalità realizzata in Flutter al seguente link: https://github.com/LauraFe01/book_tique_flutter.git
+
+## Realizzato da
+Laura Ferretti e Edoardo Cecchini
